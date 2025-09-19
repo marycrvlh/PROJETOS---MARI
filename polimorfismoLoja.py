@@ -33,7 +33,7 @@ class Alimento(Produtos):
         return f'o alimento {self.codigo} custa R${self.preco}, é do tipo {self.tipo}.'
 
 #+======= criando objetos ========+
-livro1 = Livros('R$45,99', 'cod.2525', '200')
+livro1 = Livros('R$45,99', 'cod.2525', '200') #imputando as informações para cada atributo
 eletronico1 = Eletronico('R$79,99', 'cod.2009', 'kaidi')
 alimento1 = Alimento('R$2,99', 'cod.12', 'fruta')
 
