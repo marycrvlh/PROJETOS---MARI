@@ -1,0 +1,17 @@
+MATRIZES:
+
+Uma matriz é uma coleção ordenada de elementos dispostos em linhas e colunas, formando uma grade retangular.
+As dimensões de uma matriz são dadas pelo número de linhas (m) e colunas (n), frequentemente expressas como m × n. Exemplo: 2x3, 3x3, 2x4
+
+TIPOS DE MATRIZES:
+Matrizes unidimensionais (vetores): São o tipo mais simples de matriz, com apenas uma dimensão. Por exemplo, um
+vetor pode ter elementos [a, b, c, d]
+
+Matrizes bidimensionais: São as matrizes-padrão com duas dimensões: linhas e colunas. . Podemos pensar nelas como tabelas.
+
+Matrizes multidimensionais: Também conhecidas como arrays multidimensionais, essas matrizes têm mais de duas dimensões. Um exemplo
+comum é pensar em um cubo mágico.
+
+ELEMENTOS DE UMA MATRIZ:
+Elementos de uma matriz são organizados em linhas e colunas e referenciados por seus índices. A notação-padrão para um elemento de matriz é a_ij,
+em que i é o índice da linha e j o da coluna
