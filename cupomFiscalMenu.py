@@ -25,3 +25,34 @@ def adicionar_produto():
 
 def exibir_produtos():
     
+def main():
+    produtos = {}
+    while True:
+      limpar_tela()
+      exibir_menu()
+      opcao = int(input('escolha uma opção: '))
+    
+      if opcao == '1':
+        adicionar_produto()
+        pausa()
+      elif opcao == '2':
+     
+      elif opcao == '3':
+         
+      elif opcao == '4':
+         print('\n saindo do programa.', end='')
+         for i in range(5):
+                print('.', end='', flush=True)
+                time.sleep(0.5)
+         print('\n programa encerrado com sucesso!')
+         break
+      else:
+         print('opção invalida. digite uma opção válida.')
+         pausa()
+         
+    print("\n" + "=" * 30)
+    print("      PROGRAMA ENCERRADO       ")
+    print("=" * 30)
+    
+if __name__ == '__main__':
+    main()
