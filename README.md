@@ -1,2 +1,2 @@
-# ATIVIDADES-PROGRAMACAO-3-BIMESTRE
+# PROJETOS
 registrar as atividades feitas durante as aulas de lógica e programção, também servindo como portifolio
